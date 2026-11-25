@@ -69,7 +69,7 @@ The project includes a Power BI dashboard designed to present business performan
 
 <!-- Add your screenshot here after uploading it to GitHub -->
 
-![Superstore Sales Dashboard](Dashboard/dashboard_screenshot.png)
+![Superstore Sales Dashboard][(https://github.com/Hitgoku/Superstore-Sales-Analysis-Excel/blob/main/Dashboard/sales%20dashboard.pdf)
 
 ---
 
